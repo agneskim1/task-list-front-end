@@ -1,3 +1,9 @@
+Welcome to Task List - Your Personal Task Management Tool
+
+Task List is a user-friendly task management website that helps you stay organized and productive. With our intuitive interface, you can effortlessly create, manage, and track your tasks, ensuring nothing falls through the cracks. Whether you're managing personal projects or collaborating with a team, Task List is your go-to solution for efficient task management.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
